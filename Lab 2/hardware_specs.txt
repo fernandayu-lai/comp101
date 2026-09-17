@@ -1,0 +1,6 @@
+Computer Type: MacBook Air
+CPU: Apple M2
+Memory: 8 GB
+OS: macOS Ventura 13.4
+HD: 131.03 GB
+Display Resolution: 2560 × 1664
